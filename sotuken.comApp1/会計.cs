@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace sotuken.comApp1
+{
+    public partial class 会計 : Form
+    {
+        public 会計()
+        {
+            InitializeComponent();
+        }
+    }
+}
